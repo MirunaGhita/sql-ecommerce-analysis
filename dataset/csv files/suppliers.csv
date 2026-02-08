@@ -1,0 +1,51 @@
+supplier_id,supplier_name,contact_person,email,phone,country,city,rating,contract_start_date
+1,TechSupply Co,Emily Brown,contact1@techsupplyco.com,+1-555-5012,China,Shanghai,3.83,2020-07-28
+2,Global Electronics,David Lee,contact2@globalelectroni.com,+1-555-1520,Italy,Capital City,3.54,2021-03-23
+3,Smart Devices Ltd,David Smith,contact3@smartdevicesltd.com,+1-555-4257,UK,Glasgow,4.57,2023-12-07
+4,Fashion Forward Inc,Jane Lee,contact4@fashionforwardi.com,+1-555-5557,Italy,Capital City,4.71,2020-01-14
+5,Home Essentials,Michael Brown,contact5@homeessentials.com,+1-555-3547,Germany,Frankfurt,3.82,2021-11-20
+6,Sports Gear Pro,Sarah Smith,contact6@sportsgearpro.com,+1-555-6881,China,Shanghai,4.77,2023-05-21
+7,Beauty Supply Co,Emily Lee,contact7@beautysupplyco.com,+1-555-9785,Japan,Tokyo,3.69,2022-02-14
+8,BookWorld Distributors,Michael Garcia,contact8@bookworlddistri.com,+1-555-6925,China,Hangzhou,4.37,2023-12-13
+9,Toy Kingdom,Emily Johnson,contact9@toykingdom.com,+1-555-5741,China,Shanghai,4.98,2021-04-21
+10,Pet Paradise Supply,Michael Lee,contact10@petparadisesupp.com,+1-555-6977,China,Guangzhou,3.74,2021-12-28
+11,Garden Experts,Emily Garcia,contact11@gardenexperts.com,+1-555-2169,UK,Birmingham,4.41,2020-12-16
+12,Auto Parts Direct,Jane Lee,contact12@autopartsdirect.com,+1-555-7216,Italy,Capital City,3.9,2023-08-03
+13,Kitchen Innovations,Emily Brown,contact13@kitcheninnovati.com,+1-555-1916,Italy,Capital City,3.84,2020-03-06
+14,Office Solutions,Michael Smith,contact14@officesolutions.com,+1-555-4456,South Korea,Capital City,4.87,2023-03-07
+15,Music & Sound Co,Emily Lee,contact15@musicandsoundco.com,+1-555-7482,South Korea,Capital City,4.83,2023-08-09
+16,Gaming World Supply,Michael Johnson,contact16@gamingworldsupp.com,+1-555-5040,Canada,Capital City,4.62,2023-01-08
+17,Health & Wellness Dist,Sarah Chen,contact17@healthandwellne.com,+1-555-7543,Japan,Sapporo,4.04,2020-10-10
+18,Outdoor Adventure Co,John Smith,contact18@outdooradventur.com,+1-555-2796,Italy,Capital City,3.73,2020-11-23
+19,Baby Care Supply,Sarah Lee,contact19@babycaresupply.com,+1-555-8668,India,Capital City,4.29,2023-02-07
+20,Footwear International,Emily Chen,contact20@footwearinterna.com,+1-555-5371,USA,New York,4.65,2021-11-27
+21,Jewelry Craftsmen,Sarah Johnson,contact21@jewelrycraftsme.com,+1-555-8433,China,Shenzhen,3.5,2024-01-18
+22,Watch Masters,Jane Chen,contact22@watchmasters.com,+1-555-2743,Japan,Sapporo,4.81,2021-09-03
+23,Luggage Experts,Jane Brown,contact23@luggageexperts.com,+1-555-3646,Italy,Capital City,4.31,2022-12-22
+24,Furniture Wholesale,Michael Lee,contact24@furniturewholes.com,+1-555-1319,USA,Phoenix,3.67,2022-01-13
+25,Lighting Solutions,John Johnson,contact25@lightingsolutio.com,+1-555-2290,Japan,Osaka,3.63,2022-09-22
+26,Textile Traders,Jane Johnson,contact26@textiletraders.com,+1-555-8787,China,Hangzhou,4.92,2020-12-04
+27,Cosmetics Global,David Lee,contact27@cosmeticsglobal.com,+1-555-4470,Japan,Sapporo,4.89,2024-02-03
+28,Vitamin Source,Sarah Garcia,contact28@vitaminsource.com,+1-555-7118,UK,Birmingham,4.16,2022-11-25
+29,Craft Supplies Ltd,Jane Johnson,contact29@craftsupplieslt.com,+1-555-2049,Canada,Capital City,4.01,2023-04-19
+30,Party Essentials,David Johnson,contact30@partyessentials.com,+1-555-1117,Italy,Capital City,3.61,2023-07-16
+31,Digital Media Dist,John Smith,contact31@digitalmediadis.com,+1-555-6413,USA,Los Angeles,3.61,2021-05-02
+32,Phone Accessories Hub,Jane Chen,contact32@phoneaccessorie.com,+1-555-3167,Japan,Fukuoka,4.59,2023-03-15
+33,Camera Equipment Co,Jane Lee,contact33@cameraequipment.com,+1-555-7669,France,Capital City,3.79,2020-07-17
+34,Audio Visual Supply,Sarah Lee,contact34@audiovisualsupp.com,+1-555-8651,India,Capital City,4.8,2020-04-20
+35,Stationery World,Sarah Garcia,contact35@stationeryworld.com,+1-555-6559,China,Shanghai,4.7,2020-08-11
+36,Art Supplies Pro,Jane Chen,contact36@artsuppliespro.com,+1-555-8350,UK,Manchester,3.71,2021-01-10
+37,Fitness Equipment Inc,Jane Smith,contact37@fitnessequipmen.com,+1-555-8260,Japan,Fukuoka,4.71,2023-02-01
+38,Yoga & Wellness,Emily Chen,contact38@yogaandwellness.com,+1-555-1241,China,Shanghai,4.95,2021-04-29
+39,Camping Gear Supply,Sarah Lee,contact39@campinggearsupp.com,+1-555-4502,Germany,Frankfurt,4.8,2020-04-30
+40,Fishing Tackle Co,John Lee,contact40@fishingtackleco.com,+1-555-5345,Germany,Frankfurt,4.89,2022-07-20
+41,Winter Sports Ltd,Emily Garcia,contact41@wintersportsltd.com,+1-555-8973,Japan,Fukuoka,3.73,2021-08-30
+42,Summer Fun Supply,David Garcia,contact42@summerfunsupply.com,+1-555-9883,UK,London,3.59,2021-10-04
+43,Educational Toys,David Lee,contact43@educationaltoys.com,+1-555-9238,USA,New York,4.88,2022-12-23
+44,Science Kits Direct,David Smith,contact44@sciencekitsdire.com,+1-555-4044,Germany,Berlin,3.6,2020-05-19
+45,Green Energy Products,John Chen,contact45@greenenergyprod.com,+1-555-5033,UK,Leeds,4.37,2020-03-22
+46,Smart Home Solutions,Sarah Garcia,contact46@smarthomesoluti.com,+1-555-9565,France,Capital City,3.97,2021-06-18
+47,Security Systems Co,Jane Brown,contact47@securitysystems.com,+1-555-7484,UK,Birmingham,3.7,2023-08-14
+48,Tools & Hardware,Michael Smith,contact48@toolsandhardwar.com,+1-555-1152,Japan,Fukuoka,4.19,2023-02-27
+49,Plumbing Supply,David Johnson,contact49@plumbingsupply.com,+1-555-9288,China,Shanghai,3.9,2021-12-15
+50,Electrical Components,Michael Brown,contact50@electricalcompo.com,+1-555-3584,China,Beijing,4.16,2023-01-17

@@ -1,0 +1,497 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price,stock_quantity,reorder_level,supplier_id,launch_date,is_active
+1,Maybelline Tablets Pro 783,Electronics,Tablets,Maybelline,1116.32,492.09,418,20,36,2023-09-06,True
+2,Canon Laptops Classic 378,Electronics,Laptops,Canon,95.08,66.56,144,20,39,2023-03-08,True
+3,Hasbro Laptops Standard 357,Electronics,Laptops,Hasbro,518.63,320.78,463,20,4,2022-07-09,True
+4,Apple Tablets Max 265,Electronics,Tablets,Apple,26.13,11.74,379,20,29,2024-05-25,False
+5,Adidas Smartphones Classic 658,Electronics,Smartphones,Adidas,110.6,46.87,18,20,24,2022-10-31,True
+6,Apple Laptops Pro 466,Electronics,Laptops,Apple,383.1,161.05,107,20,44,2023-05-27,True
+7,Optimum Tablets Classic 342,Electronics,Tablets,Optimum,668.1,284.34,442,20,11,2022-12-29,True
+8,LG Smartphones Premium 921,Electronics,Smartphones,LG,630.05,370.92,342,20,48,2023-05-24,True
+9,Mattel Laptops Standard 327,Electronics,Laptops,Mattel,147.77,62.97,102,20,30,2023-12-18,True
+10,HP Laptops Ultra 385,Electronics,Laptops,HP,33.09,21.6,442,20,5,2023-07-26,True
+11,H&M Cameras Ultra 128,Electronics,Cameras,H&M,793.06,342.96,59,20,17,2023-01-01,False
+12,Apple Tablets Ultra 546,Electronics,Tablets,Apple,114.97,63.12,310,20,33,2022-08-25,True
+13,Dell Cameras Pro 632,Electronics,Cameras,Dell,289.91,134.81,473,20,35,2023-02-08,True
+14,Nike Headphones Ultra 779,Electronics,Headphones,Nike,1142.22,474.95,434,20,8,2023-09-08,False
+15,Hasbro Tablets Max 667,Electronics,Tablets,Hasbro,374.6,210.11,65,20,13,2024-05-11,True
+16,Maybelline Laptops Pro 411,Electronics,Laptops,Maybelline,516.28,288.86,146,20,14,2024-05-30,False
+17,Lego Cameras Plus 623,Electronics,Cameras,Lego,307.28,167.9,242,20,48,2022-12-14,True
+18,Dyson Tablets Elite 938,Electronics,Tablets,Dyson,685.04,335.29,487,20,49,2023-04-27,True
+19,Dell Laptops Standard 725,Electronics,Laptops,Dell,111.42,82.2,435,20,50,2022-05-30,True
+20,Lego Headphones Premium 606,Electronics,Headphones,Lego,631.48,292.08,204,20,16,2022-10-30,True
+21,Optimum Smartphones Standard 151,Electronics,Smartphones,Optimum,329.9,218.32,285,20,16,2022-09-06,True
+22,IKEA Laptops Ultra 873,Electronics,Laptops,IKEA,837.88,337.11,456,20,29,2024-10-30,True
+23,IKEA Cameras Standard 560,Electronics,Cameras,IKEA,985.76,449.63,132,20,49,2023-05-22,True
+24,KitchenAid Cameras Elite 830,Electronics,Cameras,KitchenAid,516.74,317.11,146,20,16,2023-07-11,True
+25,Philips Tablets Premium 810,Electronics,Tablets,Philips,73.28,49.48,78,20,46,2023-03-15,True
+26,Zara Headphones Pro 311,Electronics,Headphones,Zara,320.01,172.13,426,20,27,2024-03-08,False
+27,Optimum Smartphones Ultra 405,Electronics,Smartphones,Optimum,546.9,292.09,385,20,25,2024-05-08,False
+28,Maybelline Cameras Max 546,Electronics,Cameras,Maybelline,848.51,449.93,248,20,2,2024-03-07,True
+29,GNC Headphones Classic 737,Electronics,Headphones,GNC,169.1,90.87,273,20,2,2024-03-17,False
+30,Hasbro Cameras Classic 987,Electronics,Cameras,Hasbro,48.22,23.28,236,20,12,2022-04-13,True
+31,Levi's Headphones Premium 384,Electronics,Headphones,Levi's,192.42,113.71,385,20,27,2023-06-01,True
+32,Samsung Headphones Ultra 329,Electronics,Headphones,Samsung,513.69,377.02,332,20,5,2022-03-24,True
+33,Dell Laptops Plus 229,Electronics,Laptops,Dell,861.65,421.22,242,20,43,2022-08-23,False
+34,IKEA Laptops Classic 720,Electronics,Laptops,IKEA,783.18,352.74,310,20,48,2022-08-23,True
+35,Adidas Tablets Premium 506,Electronics,Tablets,Adidas,708.85,293.56,482,20,46,2023-02-11,True
+36,Mattel Cameras Max 970,Electronics,Cameras,Mattel,663.59,416.98,350,20,39,2022-09-05,False
+37,GAP Smartphones Elite 618,Electronics,Smartphones,GAP,567.53,271.05,331,20,22,2022-01-26,True
+38,Adidas Headphones Standard 824,Electronics,Headphones,Adidas,385.83,222.43,78,20,28,2022-12-27,False
+39,Maybelline Tablets Standard 576,Electronics,Tablets,Maybelline,790.04,406.02,223,20,47,2023-07-04,True
+40,Nike Laptops Standard 683,Electronics,Laptops,Nike,270.01,146.67,312,20,43,2024-02-16,True
+41,KitchenAid Smartphones Plus 463,Electronics,Smartphones,KitchenAid,648.23,426.97,408,20,17,2023-11-29,True
+42,Mattel Cameras Plus 187,Electronics,Cameras,Mattel,867.92,441.25,123,20,47,2024-04-12,True
+43,Optimum Cameras Standard 558,Electronics,Cameras,Optimum,239.08,127.76,405,20,2,2022-07-10,True
+44,H&M Laptops Ultra 584,Electronics,Laptops,H&M,581.91,348.98,283,20,34,2023-12-06,True
+45,Levi's Cameras Max 357,Electronics,Cameras,Levi's,336.42,182.39,118,20,8,2023-01-30,True
+46,GNC Smartphones Classic 296,Electronics,Smartphones,GNC,603.64,272.57,110,20,48,2024-09-18,True
+47,Optimum Cameras Elite 952,Electronics,Cameras,Optimum,437.89,267.07,99,20,19,2023-04-11,True
+48,Nikon Laptops Max 146,Electronics,Laptops,Nikon,32.86,16.93,498,20,4,2023-08-22,True
+49,Adidas Headphones Standard 590,Electronics,Headphones,Adidas,870.39,437.63,225,20,22,2023-01-13,True
+50,KitchenAid Tablets Standard 175,Electronics,Tablets,KitchenAid,90.84,65.9,295,20,41,2022-04-20,True
+51,L'Oreal Laptops Plus 221,Electronics,Laptops,L'Oreal,666.15,475.07,285,20,49,2024-05-02,False
+52,Maybelline Cameras Standard 553,Electronics,Cameras,Maybelline,232.39,120.59,152,20,38,2024-05-28,True
+53,Maybelline Cameras Elite 881,Electronics,Cameras,Maybelline,96.88,39.51,106,20,41,2023-03-09,True
+54,LG Smartphones Classic 102,Electronics,Smartphones,LG,250.26,127.53,209,20,29,2024-08-20,True
+55,HP Smartphones Standard 172,Electronics,Smartphones,HP,247.81,151.17,351,20,15,2023-06-26,False
+56,Zara Laptops Classic 372,Electronics,Laptops,Zara,103.98,66.24,423,20,10,2022-05-27,True
+57,Nikon Laptops Max 549,Electronics,Laptops,Nikon,690.32,301.57,63,20,30,2023-09-15,True
+58,Dyson Tablets Pro 542,Electronics,Tablets,Dyson,501.21,274.59,376,20,21,2023-05-28,True
+59,HP Smartphones Pro 883,Electronics,Smartphones,HP,1108.6,481.34,344,20,18,2022-03-24,True
+60,Dyson Headphones Classic 699,Electronics,Headphones,Dyson,789.94,329.24,223,20,41,2024-10-04,True
+61,GAP Headphones Elite 978,Electronics,Headphones,GAP,354.06,210.09,82,20,22,2024-04-23,True
+62,Hasbro Tablets Pro 565,Electronics,Tablets,Hasbro,1077.0,473.14,45,20,21,2023-06-01,True
+63,Optimum Mens Wear Pro 773,Clothing,Mens Wear,Optimum,398.94,208.05,445,20,35,2024-08-04,True
+64,Dell Mens Wear Standard 740,Clothing,Mens Wear,Dell,540.53,264.04,226,20,49,2022-04-16,True
+65,Philips Kids Wear Standard 224,Clothing,Kids Wear,Philips,122.11,74.2,14,20,41,2023-05-06,True
+66,Philips Kids Wear Plus 961,Clothing,Kids Wear,Philips,29.89,16.7,467,20,8,2024-08-03,True
+67,KitchenAid Womens Wear Max 525,Clothing,Womens Wear,KitchenAid,770.66,467.0,427,20,31,2024-08-25,True
+68,Philips Shoes Classic 984,Clothing,Shoes,Philips,123.63,80.87,35,20,18,2024-04-29,True
+69,Canon Accessories Max 957,Clothing,Accessories,Canon,675.55,412.07,300,20,38,2024-09-29,True
+70,Philips Shoes Premium 566,Clothing,Shoes,Philips,420.2,247.33,477,20,21,2023-01-22,True
+71,H&M Accessories Pro 425,Clothing,Accessories,H&M,277.6,124.45,381,20,31,2024-02-20,True
+72,KitchenAid Womens Wear Ultra 990,Clothing,Womens Wear,KitchenAid,700.72,482.76,51,20,29,2022-07-24,False
+73,Samsung Shoes Classic 176,Clothing,Shoes,Samsung,652.28,364.0,240,20,17,2023-11-25,False
+74,Lego Shoes Premium 424,Clothing,Shoes,Lego,83.61,49.35,320,20,46,2024-09-26,False
+75,Maybelline Mens Wear Max 332,Clothing,Mens Wear,Maybelline,89.56,43.53,382,20,6,2024-06-07,True
+76,IKEA Mens Wear Pro 147,Clothing,Mens Wear,IKEA,151.86,91.52,166,20,4,2023-08-24,True
+77,Zara Kids Wear Classic 274,Clothing,Kids Wear,Zara,157.57,81.33,89,20,6,2024-02-23,False
+78,KitchenAid Womens Wear Standard 753,Clothing,Womens Wear,KitchenAid,673.01,457.29,130,20,30,2023-06-07,True
+79,Nikon Shoes Standard 453,Clothing,Shoes,Nikon,509.48,342.03,300,20,20,2024-05-18,True
+80,Nikon Shoes Standard 209,Clothing,Shoes,Nikon,189.59,107.62,121,20,25,2024-01-06,False
+81,Mattel Kids Wear Premium 381,Clothing,Kids Wear,Mattel,382.56,154.66,4,20,37,2022-04-11,False
+82,Nikon Shoes Ultra 324,Clothing,Shoes,Nikon,614.87,390.11,325,20,13,2023-05-29,True
+83,Lego Mens Wear Standard 134,Clothing,Mens Wear,Lego,545.84,326.71,296,20,24,2022-09-27,True
+84,Levi's Kids Wear Classic 905,Clothing,Kids Wear,Levi's,568.46,376.27,276,20,24,2024-12-23,False
+85,LG Kids Wear Standard 925,Clothing,Kids Wear,LG,311.21,135.92,151,20,48,2023-11-25,True
+86,Nike Shoes Premium 966,Clothing,Shoes,Nike,194.25,78.97,411,20,36,2024-01-20,True
+87,Samsung Shoes Ultra 788,Clothing,Shoes,Samsung,202.15,139.58,383,20,44,2023-06-21,False
+88,Lego Shoes Plus 582,Clothing,Shoes,Lego,673.17,470.74,12,20,40,2023-11-03,False
+89,Lego Womens Wear Max 764,Clothing,Womens Wear,Lego,93.79,40.98,209,20,8,2022-10-14,True
+90,Nikon Mens Wear Plus 650,Clothing,Mens Wear,Nikon,716.79,498.0,69,20,25,2024-07-18,True
+91,Zara Accessories Premium 770,Clothing,Accessories,Zara,646.8,297.8,50,20,32,2024-04-15,True
+92,Mattel Mens Wear Plus 975,Clothing,Mens Wear,Mattel,350.95,191.56,185,20,7,2024-01-23,False
+93,Apple Kids Wear Elite 968,Clothing,Kids Wear,Apple,313.33,205.09,421,20,30,2022-07-07,True
+94,Samsung Accessories Classic 905,Clothing,Accessories,Samsung,59.13,34.78,289,20,14,2022-05-21,False
+95,L'Oreal Womens Wear Ultra 892,Clothing,Womens Wear,L'Oreal,271.44,115.82,75,20,39,2022-01-06,True
+96,Sony Womens Wear Elite 776,Clothing,Womens Wear,Sony,620.35,274.71,443,20,2,2022-09-27,True
+97,HP Kids Wear Max 153,Clothing,Kids Wear,HP,393.76,298.54,64,20,48,2024-05-12,False
+98,GNC Mens Wear Ultra 625,Clothing,Mens Wear,GNC,75.61,41.14,303,20,7,2024-07-14,False
+99,Maybelline Womens Wear Max 569,Clothing,Womens Wear,Maybelline,70.0,31.25,329,20,2,2022-05-05,True
+100,Zara Shoes Standard 175,Clothing,Shoes,Zara,653.72,346.19,460,20,6,2023-10-22,False
+101,Nike Womens Wear Ultra 490,Clothing,Womens Wear,Nike,147.19,71.83,305,20,34,2023-08-27,True
+102,Maybelline Accessories Elite 973,Clothing,Accessories,Maybelline,497.18,220.8,335,20,42,2023-03-17,True
+103,HP Shoes Premium 525,Clothing,Shoes,HP,487.86,212.77,373,20,7,2023-10-03,True
+104,Hasbro Kids Wear Standard 168,Clothing,Kids Wear,Hasbro,329.74,134.9,46,20,6,2022-07-10,True
+105,GNC Mens Wear Pro 700,Clothing,Mens Wear,GNC,846.0,372.01,489,20,36,2023-11-07,True
+106,GAP Shoes Premium 988,Clothing,Shoes,GAP,1064.23,438.07,468,20,47,2022-04-16,True
+107,Nikon Accessories Plus 258,Clothing,Accessories,Nikon,363.44,182.31,336,20,31,2023-04-05,True
+108,Philips Kids Wear Plus 926,Clothing,Kids Wear,Philips,421.1,190.1,219,20,36,2022-02-23,False
+109,Samsung Kids Wear Max 447,Clothing,Kids Wear,Samsung,210.89,98.4,179,20,1,2023-01-07,True
+110,Hasbro Accessories Pro 193,Clothing,Accessories,Hasbro,303.43,206.38,382,20,34,2023-03-17,True
+111,IKEA Shoes Ultra 895,Clothing,Shoes,IKEA,308.77,177.04,482,20,37,2022-06-23,True
+112,LG Womens Wear Elite 378,Clothing,Womens Wear,LG,516.24,379.67,226,20,43,2024-05-18,True
+113,IKEA Accessories Elite 453,Clothing,Accessories,IKEA,331.92,212.95,220,20,8,2023-08-04,False
+114,Dyson Shoes Premium 713,Clothing,Shoes,Dyson,456.32,336.89,28,20,1,2023-02-23,True
+115,Optimum Womens Wear Ultra 222,Clothing,Womens Wear,Optimum,124.11,77.25,3,20,32,2024-05-31,True
+116,H&M Womens Wear Ultra 173,Clothing,Womens Wear,H&M,427.08,270.97,203,20,48,2022-03-28,True
+117,IKEA Mens Wear Premium 687,Clothing,Mens Wear,IKEA,1077.08,461.37,207,20,46,2024-05-05,True
+118,H&M Mens Wear Standard 951,Clothing,Mens Wear,H&M,34.17,20.22,353,20,24,2022-06-30,True
+119,HP Mens Wear Elite 505,Clothing,Mens Wear,HP,397.92,223.48,445,20,20,2023-11-27,True
+120,Optimum Kids Wear Elite 643,Clothing,Kids Wear,Optimum,176.7,92.39,261,20,13,2023-12-17,True
+121,HP Womens Wear Classic 716,Clothing,Womens Wear,HP,97.02,60.37,78,20,49,2022-06-04,True
+122,IKEA Shoes Standard 797,Clothing,Shoes,IKEA,839.8,379.68,473,20,37,2023-10-24,True
+123,IKEA Womens Wear Max 915,Clothing,Womens Wear,IKEA,79.56,43.46,140,20,38,2022-04-26,True
+124,Nike Accessories Pro 477,Clothing,Accessories,Nike,298.64,162.1,425,20,19,2022-06-07,True
+125,Maybelline Decor Pro 560,Home & Kitchen,Decor,Maybelline,479.51,258.46,465,20,37,2023-01-21,True
+126,KitchenAid Decor Standard 205,Home & Kitchen,Decor,KitchenAid,626.2,255.67,415,20,22,2022-06-22,False
+127,Apple Appliances Standard 636,Home & Kitchen,Appliances,Apple,239.83,131.39,267,20,40,2022-11-22,True
+128,Nikon Cookware Pro 908,Home & Kitchen,Cookware,Nikon,445.49,199.83,323,20,42,2023-11-17,True
+129,Adidas Cookware Max 841,Home & Kitchen,Cookware,Adidas,499.88,283.4,436,20,43,2022-11-04,True
+130,L'Oreal Furniture Max 771,Home & Kitchen,Furniture,L'Oreal,804.44,335.17,357,20,43,2024-03-13,True
+131,Mattel Decor Premium 758,Home & Kitchen,Decor,Mattel,784.97,469.62,405,20,22,2022-09-19,False
+132,Lego Furniture Pro 471,Home & Kitchen,Furniture,Lego,646.64,338.52,158,20,12,2023-03-15,True
+133,Dell Bedding Elite 402,Home & Kitchen,Bedding,Dell,177.29,121.01,432,20,7,2024-11-05,False
+134,Apple Decor Classic 711,Home & Kitchen,Decor,Apple,786.28,334.35,192,20,10,2022-11-29,True
+135,LG Decor Ultra 792,Home & Kitchen,Decor,LG,491.45,363.38,368,20,16,2024-06-28,False
+136,Optimum Cookware Plus 416,Home & Kitchen,Cookware,Optimum,692.79,376.78,494,20,31,2023-02-02,True
+137,IKEA Decor Premium 614,Home & Kitchen,Decor,IKEA,386.96,236.22,270,20,27,2022-11-28,True
+138,Sony Decor Standard 995,Home & Kitchen,Decor,Sony,596.51,437.77,190,20,36,2022-07-30,False
+139,Nikon Furniture Standard 625,Home & Kitchen,Furniture,Nikon,76.26,51.1,75,20,28,2022-07-07,True
+140,GAP Bedding Premium 614,Home & Kitchen,Bedding,GAP,837.68,465.93,191,20,16,2024-03-01,True
+141,HP Cookware Ultra 910,Home & Kitchen,Cookware,HP,57.55,23.81,74,20,9,2022-03-20,True
+142,Mattel Bedding Standard 559,Home & Kitchen,Bedding,Mattel,922.35,417.24,315,20,1,2022-06-12,True
+143,Dell Cookware Premium 213,Home & Kitchen,Cookware,Dell,820.89,419.13,397,20,19,2023-05-02,True
+144,Apple Furniture Standard 164,Home & Kitchen,Furniture,Apple,262.15,126.84,56,20,32,2025-01-02,True
+145,L'Oreal Decor Premium 101,Home & Kitchen,Decor,L'Oreal,189.26,128.55,314,20,23,2023-05-08,False
+146,LG Bedding Ultra 169,Home & Kitchen,Bedding,LG,470.67,335.54,488,20,34,2024-11-05,False
+147,Samsung Decor Premium 482,Home & Kitchen,Decor,Samsung,375.29,201.32,129,20,48,2022-02-03,True
+148,GAP Furniture Elite 890,Home & Kitchen,Furniture,GAP,267.64,128.15,297,20,48,2023-11-12,True
+149,GAP Furniture Classic 950,Home & Kitchen,Furniture,GAP,631.76,277.55,398,20,44,2024-08-09,True
+150,Sony Appliances Standard 137,Home & Kitchen,Appliances,Sony,91.31,40.92,150,20,13,2022-03-31,True
+151,Levi's Furniture Standard 359,Home & Kitchen,Furniture,Levi's,896.59,467.35,18,20,49,2023-01-27,True
+152,Optimum Cookware Max 227,Home & Kitchen,Cookware,Optimum,69.74,33.42,409,20,24,2024-06-13,True
+153,H&M Bedding Standard 476,Home & Kitchen,Bedding,H&M,268.45,176.13,473,20,34,2023-07-01,True
+154,Nike Bedding Classic 658,Home & Kitchen,Bedding,Nike,551.2,221.0,150,20,21,2022-07-30,True
+155,Hasbro Cookware Premium 270,Home & Kitchen,Cookware,Hasbro,284.18,154.86,353,20,29,2023-12-21,True
+156,GNC Furniture Premium 381,Home & Kitchen,Furniture,GNC,751.81,436.32,327,20,4,2022-06-03,True
+157,Dyson Cookware Pro 246,Home & Kitchen,Cookware,Dyson,851.49,402.54,434,20,39,2024-06-16,True
+158,Nike Appliances Ultra 492,Home & Kitchen,Appliances,Nike,260.6,125.64,486,20,37,2022-03-08,False
+159,Hasbro Appliances Standard 881,Home & Kitchen,Appliances,Hasbro,402.19,230.46,39,20,37,2022-10-09,False
+160,H&M Cookware Elite 126,Home & Kitchen,Cookware,H&M,268.13,164.05,376,20,12,2024-10-19,False
+161,Philips Bedding Standard 319,Home & Kitchen,Bedding,Philips,150.97,67.7,313,20,19,2024-10-02,True
+162,Sony Furniture Standard 189,Home & Kitchen,Furniture,Sony,788.35,427.88,414,20,44,2023-10-17,True
+163,Philips Furniture Classic 828,Home & Kitchen,Furniture,Philips,653.2,275.66,363,20,45,2022-12-23,True
+164,HP Decor Classic 342,Home & Kitchen,Decor,HP,107.07,69.47,404,20,32,2022-02-23,True
+165,L'Oreal Decor Classic 726,Home & Kitchen,Decor,L'Oreal,431.98,190.77,452,20,6,2022-05-15,True
+166,Mattel Bedding Premium 943,Home & Kitchen,Bedding,Mattel,699.44,362.25,294,20,5,2022-09-14,True
+167,IKEA Furniture Classic 999,Home & Kitchen,Furniture,IKEA,457.66,238.26,424,20,50,2023-01-08,True
+168,Dyson Bedding Elite 630,Home & Kitchen,Bedding,Dyson,623.46,456.25,78,20,20,2022-12-04,True
+169,Mattel Cookware Max 966,Home & Kitchen,Cookware,Mattel,293.61,120.48,40,20,17,2023-02-07,False
+170,Sony Cookware Elite 614,Home & Kitchen,Cookware,Sony,644.32,316.26,328,20,11,2022-11-12,True
+171,GNC Decor Pro 945,Home & Kitchen,Decor,GNC,770.69,451.98,442,20,2,2022-06-16,True
+172,Canon Decor Premium 732,Home & Kitchen,Decor,Canon,730.61,329.05,327,20,2,2024-10-16,False
+173,Lego Cookware Premium 404,Home & Kitchen,Cookware,Lego,899.85,478.76,232,20,5,2022-05-03,True
+174,Zara Bedding Classic 420,Home & Kitchen,Bedding,Zara,382.0,247.28,441,20,46,2023-10-16,True
+175,Sony Bedding Elite 426,Home & Kitchen,Bedding,Sony,734.07,382.73,123,20,30,2022-09-08,True
+176,HP Bedding Premium 984,Home & Kitchen,Bedding,HP,107.54,79.03,315,20,27,2023-05-24,True
+177,L'Oreal Cookware Classic 610,Home & Kitchen,Cookware,L'Oreal,555.13,363.35,263,20,30,2024-10-18,True
+178,Samsung Bedding Standard 346,Home & Kitchen,Bedding,Samsung,95.89,54.12,110,20,38,2023-12-24,True
+179,Nikon Furniture Standard 392,Home & Kitchen,Furniture,Nikon,595.6,252.5,274,20,1,2022-08-09,True
+180,Canon Appliances Ultra 146,Home & Kitchen,Appliances,Canon,812.35,366.48,205,20,4,2023-02-03,True
+181,Nikon Decor Max 945,Home & Kitchen,Decor,Nikon,87.69,46.03,319,20,44,2022-09-01,True
+182,H&M Furniture Ultra 873,Home & Kitchen,Furniture,H&M,479.12,192.87,73,20,13,2024-11-08,True
+183,Apple Decor Ultra 923,Home & Kitchen,Decor,Apple,47.16,32.2,242,20,34,2024-07-24,True
+184,Dyson Decor Ultra 266,Home & Kitchen,Decor,Dyson,189.76,78.49,201,20,40,2023-09-05,False
+185,Dyson Cookware Max 586,Home & Kitchen,Cookware,Dyson,806.27,415.86,417,20,2,2024-01-25,True
+186,Zara Furniture Pro 711,Home & Kitchen,Furniture,Zara,667.83,296.01,242,20,17,2023-04-12,True
+187,KitchenAid Winter Sports Premium 251,Sports,Winter Sports,KitchenAid,192.23,93.55,420,20,44,2023-05-12,True
+188,Mattel Winter Sports Ultra 528,Sports,Winter Sports,Mattel,84.46,63.85,77,20,27,2023-02-22,True
+189,Optimum Winter Sports Pro 822,Sports,Winter Sports,Optimum,577.73,309.62,70,20,34,2023-03-01,False
+190,Hasbro Team Sports Classic 570,Sports,Team Sports,Hasbro,428.24,244.4,467,20,35,2023-12-03,False
+191,Hasbro Team Sports Max 724,Sports,Team Sports,Hasbro,840.65,388.27,247,20,13,2023-05-20,True
+192,Nikon Winter Sports Max 889,Sports,Winter Sports,Nikon,296.54,120.18,147,20,46,2023-03-01,True
+193,KitchenAid Team Sports Max 394,Sports,Team Sports,KitchenAid,437.88,180.91,62,20,37,2024-02-17,True
+194,Optimum Team Sports Max 831,Sports,Team Sports,Optimum,666.44,404.26,40,20,23,2024-06-24,True
+195,Dell Water Sports Max 240,Sports,Water Sports,Dell,212.17,109.01,55,20,40,2023-05-06,True
+196,Hasbro Fitness Equipment Plus 153,Sports,Fitness Equipment,Hasbro,712.42,453.54,51,20,27,2023-11-08,True
+197,Hasbro Fitness Equipment Classic 516,Sports,Fitness Equipment,Hasbro,506.39,387.68,334,20,31,2024-09-04,True
+198,Levi's Team Sports Elite 767,Sports,Team Sports,Levi's,205.44,149.85,293,20,15,2024-12-31,True
+199,Zara Outdoor Gear Pro 956,Sports,Outdoor Gear,Zara,668.29,442.3,203,20,32,2023-01-17,True
+200,Samsung Fitness Equipment Ultra 391,Sports,Fitness Equipment,Samsung,316.07,156.21,232,20,42,2024-12-09,True
+201,Dyson Outdoor Gear Elite 438,Sports,Outdoor Gear,Dyson,366.5,239.33,83,20,47,2024-07-28,True
+202,Samsung Outdoor Gear Plus 279,Sports,Outdoor Gear,Samsung,834.21,370.94,312,20,41,2024-04-10,True
+203,Levi's Winter Sports Classic 243,Sports,Winter Sports,Levi's,110.41,52.5,244,20,21,2023-05-24,True
+204,H&M Team Sports Ultra 409,Sports,Team Sports,H&M,276.47,125.41,298,20,47,2022-01-24,True
+205,Mattel Team Sports Standard 414,Sports,Team Sports,Mattel,264.33,125.79,81,20,26,2024-10-26,True
+206,Lego Fitness Equipment Plus 324,Sports,Fitness Equipment,Lego,759.04,458.9,490,20,9,2024-09-06,True
+207,GNC Water Sports Standard 875,Sports,Water Sports,GNC,864.61,494.53,275,20,43,2023-03-24,True
+208,Nike Winter Sports Ultra 179,Sports,Winter Sports,Nike,517.29,267.5,469,20,37,2022-08-18,True
+209,Dyson Winter Sports Classic 435,Sports,Winter Sports,Dyson,212.01,109.06,437,20,34,2024-06-23,True
+210,Mattel Outdoor Gear Standard 928,Sports,Outdoor Gear,Mattel,416.74,295.74,28,20,30,2022-09-28,False
+211,IKEA Water Sports Max 840,Sports,Water Sports,IKEA,564.21,286.32,11,20,26,2023-06-06,True
+212,L'Oreal Outdoor Gear Elite 654,Sports,Outdoor Gear,L'Oreal,82.79,45.78,30,20,5,2024-08-24,True
+213,Zara Team Sports Premium 483,Sports,Team Sports,Zara,143.6,98.19,456,20,25,2024-07-07,True
+214,Nike Water Sports Classic 769,Sports,Water Sports,Nike,721.52,344.54,440,20,23,2022-08-31,True
+215,H&M Winter Sports Plus 954,Sports,Winter Sports,H&M,584.94,269.13,1,20,49,2022-02-16,True
+216,Hasbro Water Sports Premium 943,Sports,Water Sports,Hasbro,655.49,362.36,117,20,16,2024-08-01,True
+217,Canon Outdoor Gear Elite 132,Sports,Outdoor Gear,Canon,240.57,102.36,414,20,43,2024-05-08,False
+218,HP Fitness Equipment Pro 557,Sports,Fitness Equipment,HP,157.71,110.98,306,20,44,2022-04-10,True
+219,H&M Fitness Equipment Pro 243,Sports,Fitness Equipment,H&M,438.41,225.09,257,20,19,2023-04-25,False
+220,L'Oreal Team Sports Ultra 342,Sports,Team Sports,L'Oreal,638.39,302.98,154,20,10,2024-12-03,True
+221,Nikon Water Sports Classic 741,Sports,Water Sports,Nikon,285.03,144.83,347,20,28,2024-10-12,True
+222,Lego Team Sports Ultra 813,Sports,Team Sports,Lego,760.28,338.96,213,20,27,2022-11-02,True
+223,LG Water Sports Plus 407,Sports,Water Sports,LG,709.29,379.66,439,20,46,2022-10-23,True
+224,Philips Fitness Equipment Classic 497,Sports,Fitness Equipment,Philips,381.94,212.21,124,20,17,2023-02-21,True
+225,IKEA Fitness Equipment Plus 152,Sports,Fitness Equipment,IKEA,599.8,425.1,137,20,25,2022-03-22,True
+226,Optimum Outdoor Gear Plus 590,Sports,Outdoor Gear,Optimum,627.34,297.92,106,20,22,2023-09-13,True
+227,Dell Outdoor Gear Standard 348,Sports,Outdoor Gear,Dell,693.62,481.42,356,20,39,2023-02-23,True
+228,Philips Outdoor Gear Standard 646,Sports,Outdoor Gear,Philips,274.79,167.59,332,20,23,2023-09-24,True
+229,Dyson Team Sports Standard 879,Sports,Team Sports,Dyson,822.85,442.58,429,20,21,2023-02-21,True
+230,Zara Team Sports Classic 116,Sports,Team Sports,Zara,75.72,32.4,133,20,36,2024-05-05,True
+231,Dell Outdoor Gear Plus 611,Sports,Outdoor Gear,Dell,301.35,171.63,281,20,42,2023-11-23,True
+232,GNC Water Sports Classic 850,Sports,Water Sports,GNC,612.76,324.43,407,20,23,2022-12-13,True
+233,KitchenAid Winter Sports Pro 636,Sports,Winter Sports,KitchenAid,237.15,100.18,17,20,5,2022-04-10,True
+234,Sony Water Sports Classic 109,Sports,Water Sports,Sony,667.14,422.85,111,20,33,2024-07-22,True
+235,Maybelline Fitness Equipment Standard 775,Sports,Fitness Equipment,Maybelline,780.65,322.49,249,20,2,2022-01-14,False
+236,Zara Winter Sports Max 648,Sports,Winter Sports,Zara,30.6,15.81,500,20,19,2022-02-05,False
+237,LG Water Sports Classic 346,Sports,Water Sports,LG,88.39,62.44,98,20,40,2024-12-14,True
+238,Canon Team Sports Premium 570,Sports,Team Sports,Canon,557.26,399.52,289,20,16,2023-04-08,True
+239,Lego Fitness Equipment Pro 195,Sports,Fitness Equipment,Lego,1031.45,495.92,207,20,25,2024-02-12,False
+240,Apple Water Sports Elite 611,Sports,Water Sports,Apple,690.2,322.01,432,20,28,2023-11-10,False
+241,Dyson Fitness Equipment Standard 377,Sports,Fitness Equipment,Dyson,725.43,460.38,23,20,5,2023-07-29,False
+242,Hasbro Winter Sports Ultra 116,Sports,Winter Sports,Hasbro,63.07,26.12,492,20,14,2022-10-23,True
+243,Nikon Fitness Equipment Premium 793,Sports,Fitness Equipment,Nikon,142.34,89.6,459,20,35,2023-11-11,True
+244,Mattel Outdoor Gear Ultra 154,Sports,Outdoor Gear,Mattel,693.54,364.84,50,20,28,2023-04-21,True
+245,Maybelline Team Sports Premium 892,Sports,Team Sports,Maybelline,946.07,386.81,167,20,2,2023-07-14,True
+246,HP Water Sports Premium 290,Sports,Water Sports,HP,447.85,184.35,348,20,38,2024-02-18,True
+247,Nikon Winter Sports Elite 374,Sports,Winter Sports,Nikon,864.56,401.05,78,20,25,2022-11-12,True
+248,GAP Team Sports Max 555,Sports,Team Sports,GAP,81.26,62.21,184,20,49,2023-07-07,True
+249,Nike Non-Fiction Premium 205,Books,Non-Fiction,Nike,187.21,101.82,13,20,6,2023-12-26,False
+250,Maybelline Fiction Premium 112,Books,Fiction,Maybelline,511.93,303.04,149,20,27,2024-03-05,True
+251,HP Magazines Premium 273,Books,Magazines,HP,436.41,290.26,71,20,18,2023-09-09,True
+252,Sony Comics Premium 406,Books,Comics,Sony,74.69,41.0,247,20,5,2024-01-10,True
+253,GNC Non-Fiction Plus 568,Books,Non-Fiction,GNC,636.51,316.27,54,20,9,2023-09-16,True
+254,Levi's Comics Ultra 550,Books,Comics,Levi's,741.66,422.39,171,20,28,2022-10-06,True
+255,Maybelline Educational Ultra 281,Books,Educational,Maybelline,730.71,474.17,493,20,26,2023-10-16,True
+256,L'Oreal Comics Max 936,Books,Comics,L'Oreal,664.88,393.17,402,20,26,2024-01-18,True
+257,Dell Magazines Pro 844,Books,Magazines,Dell,586.8,300.19,236,20,46,2023-03-06,True
+258,Mattel Educational Premium 789,Books,Educational,Mattel,101.71,43.89,255,20,9,2023-09-13,True
+259,Hasbro Educational Premium 175,Books,Educational,Hasbro,154.62,85.53,229,20,39,2024-09-08,False
+260,Philips Comics Premium 656,Books,Comics,Philips,620.93,258.24,18,20,24,2025-01-04,False
+261,Adidas Fiction Ultra 270,Books,Fiction,Adidas,808.05,386.79,331,20,40,2022-04-01,False
+262,Optimum Comics Elite 110,Books,Comics,Optimum,389.02,172.48,50,20,17,2023-03-31,False
+263,Philips Magazines Standard 483,Books,Magazines,Philips,586.04,294.45,200,20,30,2024-10-21,True
+264,Samsung Educational Elite 218,Books,Educational,Samsung,407.94,246.56,425,20,47,2022-10-18,True
+265,Levi's Educational Standard 456,Books,Educational,Levi's,360.91,233.11,243,20,7,2024-06-16,True
+266,Nike Educational Elite 123,Books,Educational,Nike,357.03,157.13,434,20,22,2022-08-12,True
+267,Dyson Non-Fiction Premium 573,Books,Non-Fiction,Dyson,142.47,95.48,118,20,26,2023-01-13,True
+268,H&M Comics Plus 560,Books,Comics,H&M,49.5,24.3,303,20,28,2024-03-07,True
+269,Dell Non-Fiction Elite 691,Books,Non-Fiction,Dell,313.94,146.39,52,20,35,2023-01-18,True
+270,Dell Educational Standard 640,Books,Educational,Dell,378.19,234.2,494,20,41,2023-10-04,False
+271,Maybelline Comics Ultra 965,Books,Comics,Maybelline,290.79,202.35,234,20,40,2022-12-20,True
+272,L'Oreal Magazines Elite 344,Books,Magazines,L'Oreal,75.27,51.53,156,20,8,2023-01-10,True
+273,Dyson Non-Fiction Premium 533,Books,Non-Fiction,Dyson,403.85,200.35,95,20,32,2025-01-05,True
+274,LG Magazines Ultra 962,Books,Magazines,LG,366.97,249.92,230,20,40,2022-04-20,True
+275,KitchenAid Fiction Standard 518,Books,Fiction,KitchenAid,175.2,76.9,350,20,32,2024-05-01,True
+276,LG Comics Plus 399,Books,Comics,LG,67.53,50.51,16,20,18,2023-04-06,False
+277,LG Educational Standard 662,Books,Educational,LG,776.79,392.56,261,20,8,2022-08-22,True
+278,GAP Magazines Standard 659,Books,Magazines,GAP,608.56,275.6,111,20,28,2022-07-29,True
+279,Apple Educational Elite 549,Books,Educational,Apple,395.84,230.37,443,20,8,2023-05-01,True
+280,Mattel Magazines Premium 269,Books,Magazines,Mattel,391.42,181.81,315,20,9,2023-02-28,True
+281,L'Oreal Fiction Classic 431,Books,Fiction,L'Oreal,297.83,181.9,360,20,19,2023-08-16,False
+282,Dyson Educational Elite 238,Books,Educational,Dyson,1042.54,492.89,492,20,49,2024-04-22,True
+283,Lego Educational Plus 249,Books,Educational,Lego,168.85,72.18,364,20,21,2023-05-22,True
+284,Sony Comics Premium 484,Books,Comics,Sony,475.28,292.94,231,20,5,2022-07-10,True
+285,GNC Magazines Ultra 565,Books,Magazines,GNC,354.65,146.33,486,20,32,2023-11-02,False
+286,Optimum Fiction Standard 750,Books,Fiction,Optimum,600.16,425.11,340,20,45,2024-01-04,True
+287,H&M Magazines Plus 606,Books,Magazines,H&M,211.95,116.74,137,20,21,2023-08-04,True
+288,L'Oreal Magazines Ultra 798,Books,Magazines,L'Oreal,171.87,73.99,390,20,4,2022-04-05,True
+289,Samsung Comics Standard 567,Books,Comics,Samsung,165.09,70.88,0,20,28,2023-02-19,True
+290,LG Educational Elite 770,Books,Educational,LG,1031.24,438.47,184,20,17,2022-06-18,True
+291,Apple Non-Fiction Plus 539,Books,Non-Fiction,Apple,340.34,204.21,335,20,6,2022-07-14,True
+292,KitchenAid Non-Fiction Standard 109,Books,Non-Fiction,KitchenAid,96.98,48.19,4,20,45,2023-12-05,True
+293,Mattel Comics Premium 191,Books,Comics,Mattel,103.56,74.77,374,20,7,2022-07-31,True
+294,Nikon Educational Classic 756,Books,Educational,Nikon,171.99,77.19,346,20,10,2022-05-21,False
+295,Samsung Magazines Ultra 839,Books,Magazines,Samsung,462.64,309.06,109,20,41,2022-11-07,True
+296,Hasbro Magazines Elite 243,Books,Magazines,Hasbro,353.92,226.77,385,20,8,2024-02-26,True
+297,Levi's Comics Elite 354,Books,Comics,Levi's,635.15,397.63,283,20,39,2023-08-07,True
+298,Dell Educational Premium 402,Books,Educational,Dell,504.04,263.7,330,20,4,2023-05-06,True
+299,Adidas Comics Elite 640,Books,Comics,Adidas,264.68,128.13,455,20,1,2024-01-10,True
+300,H&M Non-Fiction Ultra 659,Books,Non-Fiction,H&M,855.85,431.8,349,20,12,2024-08-22,True
+301,L'Oreal Fiction Pro 161,Books,Fiction,L'Oreal,69.57,43.09,485,20,26,2024-11-03,True
+302,Optimum Magazines Elite 755,Books,Magazines,Optimum,457.48,213.56,274,20,35,2022-11-09,True
+303,Nikon Fiction Classic 649,Books,Fiction,Nikon,117.18,48.72,167,20,26,2022-05-16,True
+304,GNC Comics Plus 188,Books,Comics,GNC,756.98,477.18,473,20,28,2022-08-26,True
+305,Maybelline Magazines Classic 222,Books,Magazines,Maybelline,77.59,36.96,6,20,46,2022-10-09,True
+306,KitchenAid Non-Fiction Max 270,Books,Non-Fiction,KitchenAid,919.43,476.98,190,20,9,2023-07-05,True
+307,Levi's Fiction Elite 369,Books,Fiction,Levi's,659.46,405.48,364,20,37,2022-06-07,True
+308,Dyson Comics Classic 476,Books,Comics,Dyson,354.19,186.46,80,20,17,2022-07-30,False
+309,HP Fiction Pro 350,Books,Fiction,HP,486.02,372.98,23,20,31,2024-01-16,True
+310,LG Non-Fiction Premium 329,Books,Non-Fiction,LG,1085.93,466.27,164,20,16,2024-05-02,True
+311,Nike Haircare Pro 283,Beauty,Haircare,Nike,418.62,290.05,114,20,34,2022-04-05,True
+312,IKEA Skincare Max 435,Beauty,Skincare,IKEA,967.86,434.36,44,20,36,2024-07-24,True
+313,Dell Haircare Plus 575,Beauty,Haircare,Dell,342.67,152.88,188,20,38,2024-10-07,True
+314,Optimum Tools Premium 124,Beauty,Tools,Optimum,592.32,400.03,119,20,35,2023-12-11,True
+315,Samsung Haircare Max 206,Beauty,Haircare,Samsung,668.87,381.88,105,20,34,2023-05-03,True
+316,Apple Fragrances Max 195,Beauty,Fragrances,Apple,715.64,486.55,22,20,15,2024-11-30,True
+317,IKEA Haircare Elite 617,Beauty,Haircare,IKEA,683.46,487.53,68,20,41,2024-03-18,True
+318,L'Oreal Tools Classic 342,Beauty,Tools,L'Oreal,84.89,40.52,149,20,17,2023-10-08,True
+319,Levi's Haircare Plus 239,Beauty,Haircare,Levi's,366.4,231.85,399,20,50,2022-08-12,True
+320,LG Skincare Elite 648,Beauty,Skincare,LG,386.16,230.29,183,20,50,2023-03-02,True
+321,IKEA Haircare Classic 926,Beauty,Haircare,IKEA,201.93,139.85,351,20,20,2022-03-24,True
+322,Sony Haircare Ultra 505,Beauty,Haircare,Sony,87.39,54.69,262,20,4,2023-09-05,True
+323,Samsung Makeup Plus 196,Beauty,Makeup,Samsung,1108.18,476.53,236,20,7,2022-10-14,True
+324,Apple Skincare Classic 302,Beauty,Skincare,Apple,1033.48,416.88,421,20,26,2024-02-02,True
+325,L'Oreal Tools Pro 166,Beauty,Tools,L'Oreal,311.31,136.82,101,20,42,2024-06-27,True
+326,Levi's Skincare Pro 272,Beauty,Skincare,Levi's,170.25,70.04,473,20,37,2024-06-06,True
+327,Samsung Fragrances Ultra 319,Beauty,Fragrances,Samsung,357.94,197.54,465,20,12,2023-07-18,True
+328,Sony Fragrances Plus 762,Beauty,Fragrances,Sony,55.12,26.98,151,20,32,2024-04-23,False
+329,Apple Fragrances Premium 304,Beauty,Fragrances,Apple,93.22,52.98,329,20,34,2023-05-26,False
+330,H&M Skincare Standard 452,Beauty,Skincare,H&M,680.5,393.14,467,20,37,2024-10-25,True
+331,Canon Fragrances Plus 130,Beauty,Fragrances,Canon,165.09,98.11,458,20,50,2023-07-30,True
+332,Dyson Fragrances Plus 263,Beauty,Fragrances,Dyson,370.43,185.14,51,20,16,2023-05-09,True
+333,GNC Tools Plus 689,Beauty,Tools,GNC,93.34,37.4,433,20,25,2023-12-28,True
+334,HP Makeup Ultra 705,Beauty,Makeup,HP,680.98,300.33,14,20,46,2023-12-22,False
+335,Sony Tools Standard 655,Beauty,Tools,Sony,436.28,285.92,158,20,12,2024-10-01,True
+336,Apple Skincare Standard 100,Beauty,Skincare,Apple,193.74,123.99,169,20,40,2023-02-17,True
+337,Mattel Haircare Ultra 160,Beauty,Haircare,Mattel,219.41,96.96,11,20,10,2022-10-18,True
+338,GAP Tools Premium 700,Beauty,Tools,GAP,840.36,480.67,51,20,22,2023-09-11,True
+339,LG Makeup Standard 764,Beauty,Makeup,LG,672.87,368.85,162,20,12,2024-01-01,True
+340,LG Tools Max 230,Beauty,Tools,LG,426.15,195.41,90,20,47,2022-01-04,False
+341,Optimum Fragrances Ultra 928,Beauty,Fragrances,Optimum,646.59,482.94,495,20,40,2023-03-29,False
+342,KitchenAid Skincare Plus 455,Beauty,Skincare,KitchenAid,173.18,78.92,163,20,11,2022-07-01,True
+343,Samsung Fragrances Elite 458,Beauty,Fragrances,Samsung,223.84,139.95,131,20,7,2022-01-03,True
+344,IKEA Fragrances Premium 604,Beauty,Fragrances,IKEA,908.74,368.97,451,20,25,2023-12-21,False
+345,Adidas Fragrances Plus 266,Beauty,Fragrances,Adidas,934.8,416.12,231,20,5,2022-03-10,True
+346,Levi's Skincare Ultra 274,Beauty,Skincare,Levi's,196.67,137.95,454,20,25,2022-11-26,True
+347,Nike Tools Standard 821,Beauty,Tools,Nike,435.9,175.6,15,20,28,2022-12-04,False
+348,LG Fragrances Plus 519,Beauty,Fragrances,LG,61.51,36.24,356,20,36,2023-06-28,True
+349,HP Haircare Standard 257,Beauty,Haircare,HP,100.97,57.0,27,20,24,2022-01-08,True
+350,Nikon Skincare Standard 304,Beauty,Skincare,Nikon,848.15,413.71,49,20,2,2023-02-28,True
+351,Nike Haircare Premium 582,Beauty,Haircare,Nike,348.22,242.05,250,20,43,2023-06-27,True
+352,H&M Tools Ultra 291,Beauty,Tools,H&M,237.65,100.59,228,20,3,2023-06-24,True
+353,Canon Fragrances Pro 254,Beauty,Fragrances,Canon,196.07,120.86,385,20,45,2022-07-18,True
+354,Philips Haircare Plus 666,Beauty,Haircare,Philips,469.92,212.85,31,20,25,2024-12-06,True
+355,Hasbro Tools Plus 587,Beauty,Tools,Hasbro,812.95,434.78,153,20,6,2024-03-19,True
+356,L'Oreal Tools Classic 223,Beauty,Tools,L'Oreal,1020.0,451.22,486,20,49,2024-07-08,True
+357,Dell Makeup Premium 180,Beauty,Makeup,Dell,589.5,406.15,349,20,28,2023-02-18,True
+358,Canon Tools Elite 189,Beauty,Tools,Canon,362.12,166.68,198,20,36,2024-03-24,False
+359,Canon Haircare Pro 905,Beauty,Haircare,Canon,635.32,264.65,358,20,40,2024-12-06,True
+360,Zara Skincare Elite 208,Beauty,Skincare,Zara,164.97,83.32,288,20,50,2022-07-26,True
+361,GAP Tools Standard 685,Beauty,Tools,GAP,711.74,440.17,311,20,31,2022-03-18,True
+362,H&M Haircare Premium 139,Beauty,Haircare,H&M,163.43,80.49,202,20,22,2023-05-02,True
+363,Canon Fragrances Max 418,Beauty,Fragrances,Canon,595.33,449.55,143,20,32,2022-07-21,True
+364,Nikon Makeup Ultra 375,Beauty,Makeup,Nikon,892.73,487.37,373,20,27,2022-07-02,True
+365,Dell Fragrances Standard 877,Beauty,Fragrances,Dell,818.43,457.58,264,20,24,2022-04-26,False
+366,Nike Makeup Classic 899,Beauty,Makeup,Nike,309.98,162.45,435,20,34,2022-03-01,True
+367,Dell Makeup Standard 151,Beauty,Makeup,Dell,671.94,420.12,470,20,24,2023-02-12,True
+368,IKEA Haircare Elite 797,Beauty,Haircare,IKEA,531.11,257.51,15,20,16,2024-02-02,True
+369,IKEA Tools Ultra 452,Beauty,Tools,IKEA,227.47,97.02,83,20,17,2022-07-05,True
+370,H&M Skincare Plus 977,Beauty,Skincare,H&M,79.8,34.33,113,20,42,2023-04-07,True
+371,Lego Haircare Pro 585,Beauty,Haircare,Lego,278.93,210.66,466,20,9,2022-12-21,False
+372,HP Skincare Max 829,Beauty,Skincare,HP,302.91,133.67,495,20,46,2023-07-18,True
+373,GAP Educational Max 793,Toys,Educational,GAP,366.89,234.91,266,20,40,2024-03-24,False
+374,Samsung Action Figures Ultra 674,Toys,Action Figures,Samsung,546.0,260.64,331,20,39,2023-08-02,True
+375,KitchenAid Action Figures Ultra 982,Toys,Action Figures,KitchenAid,102.62,41.28,141,20,17,2023-09-04,True
+376,Dyson Board Games Premium 776,Toys,Board Games,Dyson,916.35,385.08,163,20,44,2022-10-14,True
+377,Nikon Educational Premium 854,Toys,Educational,Nikon,247.13,137.12,18,20,38,2023-01-24,True
+378,Hasbro Board Games Ultra 619,Toys,Board Games,Hasbro,609.72,271.97,153,20,11,2023-01-06,True
+379,KitchenAid Action Figures Classic 796,Toys,Action Figures,KitchenAid,117.06,72.69,460,20,22,2022-07-02,True
+380,HP Puzzles Ultra 480,Toys,Puzzles,HP,625.12,374.66,133,20,38,2023-08-26,True
+381,KitchenAid Action Figures Elite 583,Toys,Action Figures,KitchenAid,74.82,36.3,455,20,13,2024-10-21,True
+382,Dyson Educational Classic 240,Toys,Educational,Dyson,213.18,156.19,102,20,22,2024-04-18,False
+383,Sony Educational Elite 599,Toys,Educational,Sony,356.27,165.03,170,20,41,2022-12-29,True
+384,Samsung Action Figures Classic 690,Toys,Action Figures,Samsung,359.13,231.51,391,20,11,2024-09-29,True
+385,Maybelline Board Games Premium 588,Toys,Board Games,Maybelline,403.94,222.52,196,20,1,2022-03-19,False
+386,GNC Board Games Ultra 875,Toys,Board Games,GNC,253.92,192.82,426,20,34,2023-01-26,True
+387,Lego Action Figures Ultra 419,Toys,Action Figures,Lego,580.63,369.47,66,20,7,2024-02-25,False
+388,Nikon Outdoor Toys Max 397,Toys,Outdoor Toys,Nikon,210.19,91.84,233,20,47,2024-12-01,False
+389,Levi's Outdoor Toys Classic 450,Toys,Outdoor Toys,Levi's,472.62,222.5,461,20,32,2024-01-06,True
+390,H&M Board Games Classic 316,Toys,Board Games,H&M,30.4,19.37,375,20,2,2024-10-30,True
+391,GAP Action Figures Premium 997,Toys,Action Figures,GAP,806.69,358.44,327,20,17,2024-12-31,False
+392,Maybelline Action Figures Pro 149,Toys,Action Figures,Maybelline,1041.72,497.39,353,20,8,2024-05-03,True
+393,Adidas Educational Classic 310,Toys,Educational,Adidas,519.98,278.17,355,20,44,2022-01-20,True
+394,Hasbro Educational Classic 528,Toys,Educational,Hasbro,114.46,59.48,425,20,7,2024-11-13,False
+395,Nikon Action Figures Plus 723,Toys,Action Figures,Nikon,94.03,65.87,102,20,50,2023-06-23,False
+396,GAP Board Games Pro 661,Toys,Board Games,GAP,586.79,354.68,254,20,14,2024-09-11,True
+397,Samsung Board Games Elite 955,Toys,Board Games,Samsung,22.86,16.25,293,20,43,2024-10-08,True
+398,Optimum Action Figures Elite 362,Toys,Action Figures,Optimum,565.36,260.74,329,20,15,2024-07-24,True
+399,IKEA Puzzles Pro 972,Toys,Puzzles,IKEA,78.61,34.54,148,20,24,2023-10-03,True
+400,Adidas Action Figures Pro 972,Toys,Action Figures,Adidas,1011.55,427.11,70,20,43,2022-12-16,True
+401,IKEA Puzzles Elite 481,Toys,Puzzles,IKEA,775.29,477.99,417,20,22,2023-01-10,True
+402,H&M Educational Premium 806,Toys,Educational,H&M,783.06,481.53,435,20,31,2024-05-13,True
+403,Sony Action Figures Classic 206,Toys,Action Figures,Sony,481.17,351.12,213,20,38,2024-09-15,False
+404,LG Educational Pro 983,Toys,Educational,LG,691.84,309.55,350,20,47,2022-09-25,True
+405,Adidas Educational Elite 367,Toys,Educational,Adidas,813.68,444.92,335,20,21,2022-01-26,False
+406,GNC Outdoor Toys Ultra 631,Toys,Outdoor Toys,GNC,709.54,286.86,267,20,45,2022-07-15,True
+407,KitchenAid Board Games Premium 252,Toys,Board Games,KitchenAid,378.86,179.42,429,20,36,2022-04-22,True
+408,Dyson Board Games Classic 176,Toys,Board Games,Dyson,989.11,425.93,384,20,32,2023-10-19,True
+409,Canon Puzzles Premium 512,Toys,Puzzles,Canon,54.34,34.67,418,20,16,2022-06-11,True
+410,L'Oreal Educational Standard 423,Toys,Educational,L'Oreal,534.42,229.57,60,20,32,2022-02-06,True
+411,Zara Educational Elite 910,Toys,Educational,Zara,53.99,27.56,309,20,40,2023-09-16,False
+412,Dell Outdoor Toys Ultra 472,Toys,Outdoor Toys,Dell,611.04,330.75,422,20,4,2023-04-02,True
+413,Philips Puzzles Ultra 833,Toys,Puzzles,Philips,779.76,386.03,231,20,8,2022-07-19,True
+414,Levi's Action Figures Max 660,Toys,Action Figures,Levi's,379.15,184.02,267,20,24,2022-08-06,True
+415,KitchenAid Board Games Premium 209,Toys,Board Games,KitchenAid,170.27,78.82,130,20,40,2023-02-06,True
+416,H&M Action Figures Plus 833,Toys,Action Figures,H&M,264.75,115.64,173,20,7,2024-04-28,True
+417,Adidas Outdoor Toys Classic 610,Toys,Outdoor Toys,Adidas,714.8,388.35,2,20,34,2022-04-10,False
+418,L'Oreal Educational Classic 808,Toys,Educational,L'Oreal,471.08,246.64,296,20,12,2022-09-20,True
+419,Hasbro Educational Premium 528,Toys,Educational,Hasbro,717.84,304.27,311,20,45,2023-05-24,True
+420,Levi's Educational Classic 241,Toys,Educational,Levi's,895.05,485.54,211,20,39,2024-11-15,True
+421,Levi's Outdoor Toys Plus 305,Toys,Outdoor Toys,Levi's,869.28,358.82,107,20,40,2023-08-19,True
+422,Mattel Board Games Ultra 827,Toys,Board Games,Mattel,804.92,328.54,59,20,49,2023-12-23,False
+423,L'Oreal Educational Premium 790,Toys,Educational,L'Oreal,608.35,289.61,382,20,35,2023-08-09,True
+424,Dyson Action Figures Pro 786,Toys,Action Figures,Dyson,109.24,62.17,28,20,13,2023-07-01,True
+425,Hasbro Puzzles Max 308,Toys,Puzzles,Hasbro,306.33,132.77,385,20,35,2022-03-08,True
+426,Adidas Educational Plus 860,Toys,Educational,Adidas,658.28,311.89,331,20,36,2024-03-07,True
+427,Mattel Outdoor Toys Premium 496,Toys,Outdoor Toys,Mattel,316.58,150.94,213,20,44,2023-10-03,False
+428,Samsung Action Figures Standard 949,Toys,Action Figures,Samsung,577.96,374.4,115,20,41,2024-01-24,False
+429,GNC Outdoor Toys Plus 401,Toys,Outdoor Toys,GNC,682.04,305.66,229,20,12,2022-06-02,True
+430,GNC Board Games Premium 385,Toys,Board Games,GNC,458.81,261.78,284,20,17,2022-09-24,True
+431,Canon Outdoor Toys Classic 140,Toys,Outdoor Toys,Canon,23.75,12.77,78,20,21,2022-04-15,False
+432,KitchenAid Puzzles Elite 902,Toys,Puzzles,KitchenAid,778.31,397.06,362,20,21,2024-12-12,True
+433,Dyson Board Games Premium 656,Toys,Board Games,Dyson,82.75,43.41,274,20,26,2022-07-08,True
+434,Dell Board Games Max 323,Toys,Board Games,Dell,568.64,335.03,486,20,49,2024-12-22,True
+435,Optimum Personal Care Ultra 556,Health,Personal Care,Optimum,643.17,490.76,123,20,42,2023-05-15,True
+436,H&M Medical Devices Premium 362,Health,Medical Devices,H&M,1116.74,458.81,276,20,47,2023-08-03,True
+437,Optimum Personal Care Standard 598,Health,Personal Care,Optimum,438.48,193.73,22,20,19,2023-01-30,True
+438,Nike Personal Care Pro 741,Health,Personal Care,Nike,712.34,474.62,33,20,14,2023-03-13,True
+439,Dell Vitamins Premium 762,Health,Vitamins,Dell,586.19,273.5,418,20,5,2022-11-11,True
+440,Mattel Fitness Trackers Pro 282,Health,Fitness Trackers,Mattel,242.42,172.54,406,20,17,2022-05-25,False
+441,Canon Supplements Premium 543,Health,Supplements,Canon,386.2,209.74,161,20,2,2024-03-08,True
+442,Samsung Personal Care Pro 817,Health,Personal Care,Samsung,662.23,324.3,434,20,5,2024-01-03,False
+443,Nikon Vitamins Elite 388,Health,Vitamins,Nikon,657.3,395.58,391,20,29,2024-02-21,True
+444,KitchenAid Vitamins Premium 915,Health,Vitamins,KitchenAid,135.43,86.6,408,20,35,2023-08-28,True
+445,Hasbro Medical Devices Ultra 111,Health,Medical Devices,Hasbro,1093.07,444.62,283,20,36,2022-10-17,True
+446,Samsung Vitamins Elite 412,Health,Vitamins,Samsung,515.26,290.63,107,20,48,2023-12-06,True
+447,Lego Fitness Trackers Classic 326,Health,Fitness Trackers,Lego,628.4,427.21,315,20,17,2023-02-02,True
+448,Hasbro Supplements Standard 760,Health,Supplements,Hasbro,933.33,401.83,281,20,5,2023-08-19,True
+449,Adidas Medical Devices Ultra 465,Health,Medical Devices,Adidas,213.11,106.73,65,20,43,2023-04-26,True
+450,Maybelline Medical Devices Standard 561,Health,Medical Devices,Maybelline,67.74,44.21,168,20,40,2023-09-19,False
+451,L'Oreal Supplements Premium 272,Health,Supplements,L'Oreal,653.0,287.76,2,20,21,2023-05-20,True
+452,Canon Fitness Trackers Ultra 998,Health,Fitness Trackers,Canon,616.1,421.65,245,20,30,2024-07-01,True
+453,KitchenAid Medical Devices Elite 961,Health,Medical Devices,KitchenAid,423.54,280.32,143,20,9,2023-02-07,True
+454,GNC Vitamins Pro 932,Health,Vitamins,GNC,62.08,46.95,297,20,38,2024-04-09,False
+455,Apple Supplements Standard 769,Health,Supplements,Apple,547.15,280.28,396,20,10,2024-01-20,True
+456,Optimum Supplements Classic 575,Health,Supplements,Optimum,696.02,298.9,256,20,33,2022-07-05,True
+457,Dyson Medical Devices Classic 875,Health,Medical Devices,Dyson,24.1,15.19,263,20,9,2024-07-02,True
+458,L'Oreal Supplements Classic 853,Health,Supplements,L'Oreal,993.09,474.87,374,20,31,2024-01-05,True
+459,Optimum Supplements Ultra 339,Health,Supplements,Optimum,342.4,248.94,21,20,43,2023-02-28,False
+460,H&M Medical Devices Pro 140,Health,Medical Devices,H&M,443.2,240.14,332,20,21,2022-07-31,False
+461,GNC Medical Devices Classic 485,Health,Medical Devices,GNC,271.54,139.02,334,20,25,2024-01-19,False
+462,Dyson Vitamins Plus 628,Health,Vitamins,Dyson,328.83,133.28,207,20,23,2023-12-08,True
+463,Maybelline Fitness Trackers Standard 269,Health,Fitness Trackers,Maybelline,31.2,13.23,117,20,5,2024-11-19,True
+464,Sony Supplements Elite 776,Health,Supplements,Sony,176.21,101.58,117,20,27,2023-11-08,True
+465,Hasbro Fitness Trackers Classic 762,Health,Fitness Trackers,Hasbro,379.86,244.62,426,20,27,2022-02-15,True
+466,Sony Vitamins Pro 686,Health,Vitamins,Sony,434.58,291.01,75,20,4,2022-12-07,True
+467,Dyson Supplements Pro 999,Health,Supplements,Dyson,968.3,479.54,368,20,47,2023-08-04,True
+468,IKEA Supplements Standard 274,Health,Supplements,IKEA,573.14,307.2,112,20,27,2022-10-20,False
+469,Maybelline Supplements Ultra 564,Health,Supplements,Maybelline,538.97,333.23,305,20,38,2022-05-21,True
+470,H&M Fitness Trackers Premium 946,Health,Fitness Trackers,H&M,98.7,74.78,76,20,39,2022-07-17,True
+471,Maybelline Fitness Trackers Elite 195,Health,Fitness Trackers,Maybelline,715.19,303.91,246,20,43,2022-09-24,False
+472,Samsung Personal Care Premium 634,Health,Personal Care,Samsung,1002.34,449.51,215,20,24,2022-03-30,False
+473,HP Fitness Trackers Premium 458,Health,Fitness Trackers,HP,882.6,469.83,301,20,48,2022-07-20,True
+474,Canon Supplements Elite 390,Health,Supplements,Canon,384.96,243.8,306,20,35,2024-04-16,True
+475,Samsung Supplements Elite 632,Health,Supplements,Samsung,803.37,357.48,3,20,25,2023-02-25,True
+476,GAP Fitness Trackers Max 367,Health,Fitness Trackers,GAP,112.72,62.23,437,20,35,2024-05-17,False
+477,Maybelline Medical Devices Plus 523,Health,Medical Devices,Maybelline,306.97,145.02,282,20,36,2024-09-15,True
+478,Philips Medical Devices Max 691,Health,Medical Devices,Philips,452.33,281.91,176,20,50,2024-03-26,True
+479,GNC Vitamins Classic 202,Health,Vitamins,GNC,274.57,122.59,109,20,33,2024-03-31,True
+480,Maybelline Personal Care Classic 498,Health,Personal Care,Maybelline,755.2,351.56,493,20,41,2022-01-11,True
+481,KitchenAid Supplements Elite 369,Health,Supplements,KitchenAid,845.02,463.67,113,20,24,2022-06-13,False
+482,GNC Vitamins Max 828,Health,Vitamins,GNC,492.1,198.32,493,20,39,2022-04-28,True
+483,IKEA Fitness Trackers Max 299,Health,Fitness Trackers,IKEA,35.39,15.25,17,20,39,2024-11-11,False
+484,Maybelline Supplements Plus 770,Health,Supplements,Maybelline,124.99,93.05,0,20,11,2022-06-27,True
+485,GAP Fitness Trackers Plus 630,Health,Fitness Trackers,GAP,604.08,338.13,7,20,48,2022-05-21,True
+486,Nikon Personal Care Ultra 455,Health,Personal Care,Nikon,720.99,365.81,493,20,18,2023-04-09,False
+487,IKEA Supplements Max 279,Health,Supplements,IKEA,926.41,465.56,208,20,33,2022-08-07,False
+488,Dyson Vitamins Max 997,Health,Vitamins,Dyson,375.65,154.18,275,20,37,2023-05-28,True
+489,L'Oreal Fitness Trackers Ultra 894,Health,Fitness Trackers,L'Oreal,393.17,246.98,234,20,44,2024-08-01,False
+490,KitchenAid Vitamins Plus 793,Health,Vitamins,KitchenAid,92.49,66.97,359,20,15,2023-10-09,True
+491,Dyson Medical Devices Max 354,Health,Medical Devices,Dyson,583.35,272.47,147,20,6,2024-03-28,True
+492,Philips Vitamins Ultra 323,Health,Vitamins,Philips,873.0,466.38,457,20,37,2023-07-06,True
+493,KitchenAid Supplements Plus 993,Health,Supplements,KitchenAid,587.16,371.19,135,20,14,2023-04-15,True
+494,Maybelline Supplements Elite 180,Health,Supplements,Maybelline,412.2,184.45,346,20,43,2024-10-05,False
+495,Optimum Vitamins Standard 480,Health,Vitamins,Optimum,1053.25,429.97,317,20,21,2024-10-05,False
+496,KitchenAid Medical Devices Max 507,Health,Medical Devices,KitchenAid,220.85,99.61,113,20,49,2022-09-20,True
