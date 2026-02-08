@@ -9,7 +9,7 @@
 
 This database simulates a real e-commerce business with 2+ years of transactional data (2023-2025), including customers, orders, products, marketing campaigns, and website analytics.
 
-## E-Commerce Analytics Database - Schema Relationships
+## Schema Relationships
 
 🔗 Primary Relationships
 
