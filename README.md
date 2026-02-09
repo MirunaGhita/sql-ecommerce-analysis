@@ -8,10 +8,30 @@
 **Total Records: 60,215**
 
 This database simulates a real e-commerce business with 2+ years of transactional data (2023-2025), including customers, orders, products, marketing campaigns, and website analytics.
+<details>
+<summary>🗂️ Database Schema (click to expand)</summary>
 
+<small>
+
+| Table | Records | Purpose | Key Columns |
+|-------|--------|---------|-------------|
+| **suppliers** | 50 | Supplier info for product sourcing | `supplier_id`, `supplier_name`, `contact_person`, `email`, `phone`, `country`, `city`, `rating`, `contract_start_date` |
+| **products** | 496 | Product catalog with pricing & inventory | `product_id`, `product_name`, `category`, `sub_category`, `brand`, `unit_price`, `cost_price`, `stock_quantity`, `reorder_level`, `supplier_id`, `launch_date`, `is_active` |
+| **customers** | 2,000 | Customer info and segmentation | `customer_id`, `first_name`, `last_name`, `email`, `phone`, `date_of_birth`, `gender`, `customer_segment`, `registration_date`, `country`, `state`, `city`, `postal_code`, `loyalty_points` |
+| **orders** | 8,000 | Order transactions | `order_id`, `customer_id`, `order_date`, `ship_date`, `delivery_date`, `order_status`, `payment_method`, `shipping_cost`, `discount_amount`, `tax_amount`, `total_amount`, `shipping_address_city`, `shipping_address_state`, `shipping_address_country` |
+| **order_items** | 16,639 | Line items per order | `order_item_id`, `order_id`, `product_id`, `quantity`, `unit_price`, `discount_percent`, `line_total` |
+| **product_reviews** | 3,000 | Customer reviews for products | `review_id`, `product_id`, `customer_id`, `order_id`, `rating`, `review_title`, `review_text`, `review_date`, `verified_purchase`, `helpful_count` |
+| **marketing_campaigns** | 30 | Marketing campaign tracking | `campaign_id`, `campaign_name`, `campaign_type`, `start_date`, `end_date`, `budget`, `actual_spend`, `impressions`, `clicks`, `conversions`, `channel` |
+| **campaign_responses** | 5,000 | Customer interactions with campaigns | `response_id`, `campaign_id`, `customer_id`, `response_date`, `response_type`, `order_id` |
+| **website_traffic** | 15,000 | Website session data | `traffic_id`, `visit_date`, `customer_id`, `session_id`, `page_views`, `session_duration_minutes`, `traffic_source`, `device_type`, `converted`, `order_id` |
+| **inventory_movements** | 10,000 | Product stock movements | `movement_id`, `product_id`, `movement_type`, `quantity`, `movement_date`, `reference_id`, `warehouse_location`, `notes` |
+
+</small>
+</details>
 
 ## 📌 Project Overview
-TBD
+
+This project provides a comprehensive SQL-based analysis of a retail business dataset, covering sales, customer behavior, marketing campaigns, and operational metrics. 
 
 ## 🔍 Analysis & Queries
 
@@ -29,7 +49,7 @@ Key Queries Included:
 
 🔹 Order Overview: Count orders by status
 
-Techniques Used: Simple SELECT, WHERE, GROUP BY, ORDER BY, aggregation (SUM, COUNT), and rounding for clean results.
+Techniques Used: Simple `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, aggregation (`SUM`, `COUNT`), and rounding for clean results.
 
 
 ### PART 2 - intermediate_queries - E-Commerce Intermediate Analysis
@@ -49,7 +69,7 @@ Key Queries Included:
 
 🔹 Monthly Order Performance: Delivered vs cancelled orders, delivery rate, and average delivery time
 
-Techniques Used: WITH CTEs, WINDOW FUNCTIONS (AVG() OVER()), GROUP BY, conditional aggregation (CASE WHEN), and rounding for precise metrics.
+Techniques Used: WITH `CTE`s, WINDOW FUNCTIONS (`AVG() OVER()), GROUP BY`, conditional aggregation (`CASE WHEN`), and rounding for precise metrics.
 
 ### PART 3 - dashboard_views - SQL E-Commerce Dashboard Views
 
@@ -68,7 +88,7 @@ Key Views Included:
 
 🔹 Product Reviews: Review count, average rating, and helpful votes per product
 
-Techniques Used: CREATE VIEW, LEFT JOIN, GROUP BY, aggregation (SUM, COUNT, AVG), conditional logic (CASE) and type casting for clean, consistent output.
+Techniques Used: `CREATE VIEW`, `LEFT JOIN`, `GROUP BY`, aggregation (`SUM`, `COUNT`, `AVG`), conditional logic (`CASE`) and type casting for clean, consistent output.
 
 
 ### PART 4 - sample_questions - SQL E-Commerce Analytics
@@ -85,16 +105,13 @@ Key Insights Covered:
 
 🔹 Operations: Fulfillment times, products needing restocking, cancellation rates, supplier performance, inventory turnover
 
-Techniques Used: Joins, aggregations, CTEs, window functions, CASE statements, and rounding for clean metrics.
+Techniques Used: `JOIN`s, aggregations, `CTEs`, window functions, `CASE` statements, and rounding for clean metrics.
 
 ## 🛠️ Tools & Technologies
 
 - **SQL Server / SQL Server Express** – Database hosting  
 - **SSMS/Visual Studio Code** – SQL development and management  
-- **DrawIO** – Architecture and data flow diagrams  
 - **Notion** – Project planning and documentation  
-
-
 
 ## 🛡️ License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
