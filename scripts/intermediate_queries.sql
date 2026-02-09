@@ -57,7 +57,7 @@ FROM (
 ) customer_orders
 GROUP BY customer_segment;
 
--- 5) Customer Retention (Repeat Purchase Rate)
+-- 5) Monthly order performance overview
 
 SELECT 
     FORMAT(order_date, 'yyyy-MM') AS month,
