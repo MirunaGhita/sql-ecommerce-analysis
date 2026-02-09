@@ -9,11 +9,6 @@
 
 This database simulates a real e-commerce business with 2+ years of transactional data (2023-2025), including customers, orders, products, marketing campaigns, and website analytics.
 
-## Schema Relationships
-
-🔗 Primary Relationships
-
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/cd024685-6d8b-4fd5-a2b0-6359d8181713" />
 
 ## 📌 Project Overview
 TBD
